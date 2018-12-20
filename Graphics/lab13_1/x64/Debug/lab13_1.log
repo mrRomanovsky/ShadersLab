@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\andrew\graphics\opengl-master\graphics\lab13_1\main.cpp(101): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\andrew\graphics\opengl-master\graphics\lab13_1\main.cpp(102): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\andrew\graphics\opengl-master\graphics\lab13_1\main.cpp(109): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\andrew\graphics\opengl-master\graphics\lab13_1\main.cpp(110): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\andrew\graphics\opengl-master\graphics\lab13_1\main.cpp(117): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\andrew\graphics\opengl-master\graphics\lab13_1\main.cpp(118): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\andrew\graphics\opengl-master\graphics\lab13_1\main.cpp(194): warning C4305: +=: усечение из "double" в "float"
+c:\users\andrew\graphics\opengl-master\graphics\lab13_1\main.cpp(196): warning C4305: -=: усечение из "double" в "float"
+c:\users\andrew\graphics\opengl-master\graphics\lab13_1\main.cpp(198): warning C4305: +=: усечение из "double" в "float"
+c:\users\andrew\graphics\opengl-master\graphics\lab13_1\main.cpp(200): warning C4305: -=: усечение из "double" в "float"
+c:\users\andrew\graphics\opengl-master\graphics\lab13_1\main.cpp(202): warning C4305: +=: усечение из "double" в "float"
+c:\users\andrew\graphics\opengl-master\graphics\lab13_1\main.cpp(204): warning C4305: -=: усечение из "double" в "float"
+  lab13_1.vcxproj -> C:\Users\Andrew\graphics\OpenGl-master\Graphics\x64\Debug\lab13_1.exe
